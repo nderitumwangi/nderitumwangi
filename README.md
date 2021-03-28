@@ -10,21 +10,12 @@
 <br />
 <br />
 
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Golang
 - 📫 How to reach me: <a href="https://twitter.com/shinokada">@shinokada</a> 
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=shinokada&theme=highcontrast&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact)
-
-## My Repos
-
-[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=vennfig&show_owner=true)](https://github.com/shinokada/vennfig)
-
-[![statsfig](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=statsfig&show_owner=true)](https://github.com/shinokada/statsfig)
-
-[![Covid 19 Stats](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=covid-19-stats&show_owner=true)](https://github.com/shinokada/covid-19-stats)
-
+![Github stats](https://github-readme-stats.vercel.app/api?username=nderitumwangi&theme=highcontrast&show_icons=true&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=nderitumwangi&layout=compact)
 
 
 **Languages and Tools:**  
