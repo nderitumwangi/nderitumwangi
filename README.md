@@ -11,7 +11,7 @@
 <br />
 
 - 🌱 I’m currently learning Golang
-- 📫 How to reach me: <a href="https://twitter.com/shinokada">@shinokada</a> 
+- 📫 How to reach me: <a href="https://twitter.com/">@nderitumwangi</a> 
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=nderitumwangi&theme=highcontrast&show_icons=true&count_private=true)
