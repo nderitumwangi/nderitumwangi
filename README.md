@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Nderitu!
 
 <a href="https://twitter.com/friendly_chem">
-  <img align="left" alt="Nderitu Mwangi | Twitter" width="21px" src="https://raw.githubusercontent.com/friendly_chem/friendly_chem/master/assets/twitter.png"/>
+  <img align="left" alt="Nderitu Mwangi | Twitter" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/twitter.png"/>
 </a>
 <a href="https://medium.com/@shinichiokada">
   <img align="left" alt="Nderitu Mwangi | Medium" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/medium.png"/>
